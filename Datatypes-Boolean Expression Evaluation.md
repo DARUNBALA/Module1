@@ -29,3 +29,4 @@ print("d:",d)
 ## Output
 ![image](https://github.com/user-attachments/assets/4e1aea27-61fc-40e3-8f69-7c83009d3c48)
 ## Result
+Thus,the PPython program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is created successfully.
